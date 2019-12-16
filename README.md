@@ -4,6 +4,7 @@ An todo app in ios using mvvm pattern and coredata as the database
 * [x] MVVM pattern
 * [x] Core Data
 * [x] Local Store
+* [x] SwiftUI
 * [x] Done list
 * [x] Ongoing list
 
